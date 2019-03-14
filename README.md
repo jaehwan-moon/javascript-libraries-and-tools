@@ -11,3 +11,8 @@ There are tons of libraries and tools out there. And... I cannot remember the na
 * [husky](https://github.com/typicode/husky)
 * [lint-staged](https://github.com/okonet/lint-staged)
 
+### State Management
+* [akita](https://github.com/datorama/akita)
+
+### Redis-based Queue
+* [bull](https://github.com/OptimalBits/bull)
